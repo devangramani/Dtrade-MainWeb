@@ -1,0 +1,15 @@
+.p-inputtext:hover {
+  border-color: #fff transparent;
+  border: "0px solid black";
+  outline: "none";
+  box-shadow: 0rem !important;
+}
+.p-inputtext:enabled:focus {
+  box-shadow: 0 0 0 0rem transparent !important;
+}
+
+input::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color: gray !important;
+  opacity: 1; /* Firefox */
+}

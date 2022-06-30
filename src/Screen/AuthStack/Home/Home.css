@@ -1,0 +1,9 @@
+.buybutton {
+  box-shadow: 0 0 3px 1px #f1f1f1;
+}
+
+.input:focus-visible {
+  outline: none;
+}
+
+
